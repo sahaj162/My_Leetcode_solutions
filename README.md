@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0169-majority-element) |
+| [0485-max-consecutive-ones](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Hash Table
 |  |
