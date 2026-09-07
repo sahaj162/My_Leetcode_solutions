@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Hash Table
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
 |  |
 | ------- |
