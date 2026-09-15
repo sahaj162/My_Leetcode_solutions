@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -78,10 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0509-fibonacci-number](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
