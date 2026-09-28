@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1200-minimum-absolute-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0169-majority-element) |
+| [1200-minimum-absolute-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
 ## Counting
 |  |
 | ------- |
