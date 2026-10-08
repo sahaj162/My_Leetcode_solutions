@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0796-rotate-string) |
+| [1021-remove-outermost-parentheses](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3498-reverse-degree-of-a-string](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Binary Search
@@ -129,8 +130,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
