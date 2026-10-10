@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1200-minimum-absolute-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0169-majority-element) |
 | [1200-minimum-absolute-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1200-minimum-absolute-difference) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Ternary Search
 |  |
 | ------- |
@@ -143,4 +146,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/sahaj162/My_Leetcode_solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
